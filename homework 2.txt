@@ -1,0 +1,6 @@
+1. 
+    worst-case time complexity: n
+    space complexity:
+2.
+    worst-case time complexity:
+    space complexity:
